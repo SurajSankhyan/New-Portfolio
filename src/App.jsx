@@ -1,4 +1,4 @@
-import Bio from "./Components/bio"
+import Bio from "./Components/Bio"
 import ContactForm from "./Components/ContactForm"
 import EducationSection from "./Components/EducationSection"
 import { Footer } from "./Components/Footer"
