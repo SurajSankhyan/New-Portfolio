@@ -93,7 +93,7 @@ export const PROJECTS = [
 ];
 
 export const BIO = [
-  "Motivated Full-Stack Developer with a strong foundation in frontend and backend development, eager to apply skills in real-world projects through an internship. Passionate about building efficient and scalable web applications, with a commitment to continuous learning and teamwork. Excited to contribute to dynamic environments while gaining hands-on experience in the industry."
+  "Motivated Full-Stack Developer with a strong foundation in frontend and backend development, eager to apply skills in real-world projects. Passionate about building efficient and scalable web applications, with a commitment to continuous learning and teamwork. Excited to contribute to dynamic environments while gaining hands-on experience in the industry."
 ];
 
 export const SKILLS = [
