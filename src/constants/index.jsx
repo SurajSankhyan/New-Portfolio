@@ -46,7 +46,7 @@ export const PROJECTS = [
     id: 1,
     name: "Chit Chat",
     description:
-      "A personal portfolio website built with React and Tailwind CSS to showcase my skills, projects, and contact information.",
+      "description.",
     image: projectImage1,
     githubLink: "https://github.com/user/personal-portfolio",
   },
@@ -54,7 +54,7 @@ export const PROJECTS = [
     id: 2,
     name: "E-Commerce Platform",
     description:
-      "An e-commerce web application developed using Next.js and Stripe for payment integration, featuring a comprehensive product catalog, shopping cart, and checkout system.",
+      "description.",
     image: projectImage2,
     githubLink: "https://github.com/user/ecommerce-platform",
   },
@@ -62,7 +62,7 @@ export const PROJECTS = [
     id: 3,
     name: "Shoes Website",
     description:
-      "A task management application built with React and Redux for efficient task tracking and team collaboration, including features like project boards, task assignment, and progress tracking.",
+      "description.",
     image: projectImage3,
     githubLink: "https://shoes-website-peach.vercel.app/",
   },
@@ -70,7 +70,7 @@ export const PROJECTS = [
     id: 4,
     name: "Weather App",
     description:
-      "A weather application that uses the OpenWeatherMap API to fetch and display current weather data and forecasts for various locations, built with React and styled-components.",
+      "description.",
     image: projectImage4,
     githubLink: "https://weather-app-delta-jade-76.vercel.app/",
   },
@@ -78,7 +78,7 @@ export const PROJECTS = [
     id: 5,
     name: "Crazy Login Page",
     description:
-      "A blogging platform developed with Next.js and Markdown for creating, editing, and publishing blog posts. It features a rich text editor, tag system, and user authentication.",
+      "description.",
     image: projectImage5,
     githubLink: "https://crazy-login-page.vercel.app/",
   },
@@ -86,7 +86,7 @@ export const PROJECTS = [
     id: 6,
     name: "AGE Calculator",
     description:
-      "A real-time chat application using Firebase for backend services, including user authentication, chat rooms, and instant messaging features. Built with React and Firebase.",
+      "description.",
     image: projectImage6,
     githubLink: "https://age-calculator-five-weld.vercel.app/",
   },
