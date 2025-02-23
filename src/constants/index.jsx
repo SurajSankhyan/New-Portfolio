@@ -44,7 +44,7 @@ export const HERO = {
 export const PROJECTS = [
   {
     id: 1,
-    name: "Personal Portfolio",
+    name: "Chit Chat",
     description:
       "A personal portfolio website built with React and Tailwind CSS to showcase my skills, projects, and contact information.",
     image: projectImage1,
@@ -60,11 +60,11 @@ export const PROJECTS = [
   },
   {
     id: 3,
-    name: "Task Management Tool",
+    name: "Shoes Website",
     description:
       "A task management application built with React and Redux for efficient task tracking and team collaboration, including features like project boards, task assignment, and progress tracking.",
     image: projectImage3,
-    githubLink: "https://github.com/user/task-management-tool",
+    githubLink: "https://shoes-website-peach.vercel.app/",
   },
   {
     id: 4,
@@ -72,23 +72,23 @@ export const PROJECTS = [
     description:
       "A weather application that uses the OpenWeatherMap API to fetch and display current weather data and forecasts for various locations, built with React and styled-components.",
     image: projectImage4,
-    githubLink: "https://github.com/user/weather-app",
+    githubLink: "https://weather-app-delta-jade-76.vercel.app/",
   },
   {
     id: 5,
-    name: "Blog Platform",
+    name: "Crazy Login Page",
     description:
       "A blogging platform developed with Next.js and Markdown for creating, editing, and publishing blog posts. It features a rich text editor, tag system, and user authentication.",
     image: projectImage5,
-    githubLink: "https://github.com/user/blog-platform",
+    githubLink: "https://crazy-login-page.vercel.app/",
   },
   {
     id: 6,
-    name: "Chat Application",
+    name: "AGE Calculator",
     description:
       "A real-time chat application using Firebase for backend services, including user authentication, chat rooms, and instant messaging features. Built with React and Firebase.",
     image: projectImage6,
-    githubLink: "https://github.com/user/chat-application",
+    githubLink: "https://age-calculator-five-weld.vercel.app/",
   },
 ];
 
