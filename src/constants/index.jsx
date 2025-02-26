@@ -48,15 +48,15 @@ export const PROJECTS = [
     description:
       "description.",
     image: projectImage1,
-    githubLink: "https://github.com/user/personal-portfolio",
+    githubLink: "https://chit-chat-m-e-r-n-2.onrender.com/login",
   },
   {
     id: 2,
-    name: "E-Commerce Platform",
+    name: "E-Commerce Store",
     description:
       "description.",
     image: projectImage2,
-    githubLink: "https://github.com/user/ecommerce-platform",
+    githubLink: "https://e-commerce-1-8no8.onrender.com",
   },
   {
     id: 3,
